@@ -32,5 +32,5 @@ dependencies {
     testCompile 'junit:junit:4.11'
 }
 launch4j {
- mainClassName = 'src\main\java\SwingDemo'
+ mainClassName = 'SwingDemo'
 }
